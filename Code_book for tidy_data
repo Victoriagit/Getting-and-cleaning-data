@@ -1,5 +1,7 @@
-Code Book
+#Code Book
 
+
+The contents, structure, and the layout of a data collected
 
 
 #Activity Labels 
@@ -11,11 +13,10 @@ Code Book
 5 STANDING
 6 LAYING
 
-The set of variables that were estimated from these signals are: 
+#The set of variables that were estimated from these signals are: 
 
 mean(): Mean value
-std(): Standard deviation
-average(): Average  
+std(): Standard deviation  
 
 #Measurements
 
